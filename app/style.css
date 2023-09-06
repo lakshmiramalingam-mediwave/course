@@ -1,0 +1,159 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Poppins", sans-serif;
+     
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.header-wrap{
+    padding: 0px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    vertical-align: middle;
+}
+.app-wrapper{
+    padding: 0px;
+    background-color:white;
+}
+.top-wrap{
+    padding :0px 0px 0px 0px;
+
+}
+.notification-icon{
+justify-content: center;
+    width: 45px;
+    height: 60px;
+    border-radius: 20%;
+    background-color:#0068ff;
+    padding: 6px;
+}
+.center {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .left{
+    background-color:#F4F6FF;
+    width:600px;
+  }
+  .top {
+     font-size: 42 px;
+    font-weight: 700;
+  }
+  .top-wrap h1{
+    font-size: 42px;
+    font-weight: 700;
+    color: #000;
+}
+.top-wrap h3{
+    color: #0068ff;
+    font-size: 22px;
+    font-weight: lighter;
+   
+}
+.course-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    vertical-align: middle;
+    margin :22px;
+
+}
+.coursed{
+    display: flex;
+    color:gray;
+    margin: -17x;
+    gap:10px;
+    align-items: center;
+    
+
+}
+.blue{
+    background-color: #0068ff;
+    border-radius: 13px;
+}
+.box-blue{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    vertical-align: middle;
+    margin :22px;
+
+
+}
+.dispay-gap{
+    display:flex;
+    justify-content: space-between;
+    align-content: center;
+    margin:2px;
+    gap:5px;
+    height: 40px;
+}
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background-color:white;
+    color:black ;
+    width: 30px;
+    height:40px;
+    padding: 14px;
+    margin-top: 10px;
+
+}
+.draw-grey{
+    width: 50%;
+    height: 8px;
+    background-color: grey;
+    border-radius: 5px;
+}
+.draw-white{
+    width: 50%;
+    height: 8px;
+    background-color: white;
+    border-radius: 5px;
+}
+.align{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.blue-boxs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 10px;
+    
+
+}
+.card-blue{
+    background-color: #0068ff;
+    border-radius: 30px;
+    margin: 50px;
+}
+.enroll{
+    padding-top: 10px;
+}
+.white-box{
+    color: white;
+}
+.white {
+    color: white;
+}
+.align{
+    color: white;
+}
